@@ -1,0 +1,282 @@
+body{
+    
+    
+    background-color:grey;
+    
+    
+}
+
+
+
+
+
+
+
+.xox1{
+    
+font-size:90px;    
+color:#B041FF;    
+margin-left: 1000px;    
+    
+
+}
+
+
+.xox2{
+    
+    background-color:rgba(225,225,225,0.6);
+    height:500px;
+    width:1200px;
+    margin-left:700px;
+    
+    
+    
+}
+
+.xox3{
+    
+    color:#B3446C;
+    font-size:50px;
+    
+    
+}
+
+
+.topio{
+    
+    margin-left: 30px;
+    color:black;
+    font-size: 70px;
+    
+}
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+@media(max-width:2106px){
+    
+    .xox1{
+        
+        margin-left: 500px;
+        
+        
+        
+    }
+    
+    .xox2{
+        
+        margin-left:300px ;
+        
+        
+        
+    }
+    
+    
+    
+}
+
+
+@media(max-width:1673px){
+    
+    .xox2{
+        height: 800px;
+        width: 900px;
+        margin-left:150px  ;
+        
+        
+        
+    }
+    
+    .xox1{
+        
+        
+        margin-left: 200px;
+        
+    }
+    
+    
+    
+    
+    
+}
+
+
+@media(max-width:1103px){
+    
+    .xox3{
+        
+        font-size: 40px;
+        
+        
+        
+    }
+    
+    .xox2{
+        
+        height: 600px;
+        
+        
+    }
+    
+    
+    
+}
+
+@media(max-width:1075px){
+    
+    .xox3{
+        
+        font-size:30px ;
+        
+        
+    }
+    
+    .xox2{
+        
+        margin-left: 150px;
+        width: 600px;
+        
+    }
+    
+    
+    .xox1{
+        
+        font-size: 70px;
+        
+        
+        
+    }
+    
+}
+
+
+
+@media(max-width:802px){
+    
+    .xox3{
+        
+        font-size: 25px;
+        
+        
+        
+    }
+    
+    .xox2{
+        
+        margin-left: 70px;
+        height: 400px;
+        
+    }
+    
+    .xox1{
+        
+        font-size: 50px;
+        
+        
+    }
+    
+    
+    
+}
+
+
+@media(max-width:708px){
+    
+    .topio{
+        
+        font-size: 30px;
+        
+        
+    }
+    
+    .xox2{
+        
+        height: 300px;
+        width: 300px;
+        margin-left: 130px;
+        
+        
+        
+    }
+    
+    
+    .xox3{
+        
+        font-size: 20px;
+        
+        
+    }
+    
+    
+    .xox1{
+        
+        margin-left: 150px;
+        
+        
+    }
+    
+    
+    
+    
+    
+}
+
+
+@media(max-width:472px){
+    
+    .xox2{
+        
+        
+        margin-left: 20px;
+        
+    }
+    
+    .xox1{
+        
+        font-size: 30px;
+       margin-left: 60px;
+    }
+    
+    .xox3{
+        
+        
+        font-size: 15px;
+        
+    }
+    
+    
+    .topio{
+        
+        
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
